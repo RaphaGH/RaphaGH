@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaphaGH
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on web apps
+- 💞️ I’m looking to collaborate on desktop apps
 - 📫 How to reach me ... [in progress]
 
 <!---
